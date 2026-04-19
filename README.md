@@ -12,8 +12,12 @@ I identify the constraint → design the system → automate the workflow.
 
 - Led the redesign of onboarding into a system-driven workflow, significantly reducing time-to-revenue
 - Eliminated clarification loops through standardized inputs, compressing the intake cycle
-- Defined and drove implementation of AI-generated specs and structured execution workflows, replacing hours of manual coordination
-- Defined and drove a real-time knowledge layer with RAG-powered Q&A, replacing manual search across specs, meetings, and Jira tickets
+- Led the design and delivery of 4 AI features: spec generation, Jira ticket automation, RAG-powered Q&A, and AI account health narratives
+
+**PM Agent Suite**: AI agents covering the full product management workflow
+
+- Built 3 delivery pipeline agents covering discovery, prototyping, and acceptance testing
+- Built 8 scheduled PM agents covering meeting intelligence, weekly synthesis, pre-meeting briefings, and release announcements
 
 ---
 
