@@ -10,10 +10,10 @@ I identify the constraint → design the system → automate the workflow.
 
 **FDE Platform** — AI-powered onboarding system that brings distributors onto the Cut+Dry platform
 
-- Led the redesign of onboarding into a system-driven workflow, reducing time-to-revenue by 40% (189 → 113 days)
-- Cut intake cycle from 100+ days to 23–27 days (~4x faster) by eliminating clarification loops through standardized inputs
+- Led the redesign of onboarding into a system-driven workflow, significantly reducing time-to-revenue
+- Eliminated clarification loops through standardized inputs, compressing the intake cycle
 - Defined and drove implementation of AI-generated specs and structured execution workflows, replacing hours of manual coordination
-- Defined and drove a real-time knowledge layer with RAG-powered Q&A, replacing manual search across specs and meetings
+- Defined and drove a real-time knowledge layer with RAG-powered Q&A, replacing manual search across specs, meetings, and Jira tickets
 
 ---
 
