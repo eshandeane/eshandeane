@@ -25,7 +25,7 @@ I identify the constraint → design the system → automate the workflow.
   - Recap: meeting decisions and actions
   - Warmup: pre-meeting context briefing
   - Spotlight: visual release announcements
-  - Meeting Cleanup: batch meeting processing
+  - Lookout: ecosystem and competitor intelligence
 
 ---
 
