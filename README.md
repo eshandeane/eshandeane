@@ -8,7 +8,7 @@ I identify the constraint → design the system → automate the workflow.
 
 ## 🔨 What I'm building @ Cut+Dry
 
-**FDE Platform** — AI-powered onboarding system that brings distributors onto the Cut+Dry platform
+**FDE Platform**: AI-powered onboarding system that brings distributors onto the Cut+Dry platform
 
 - Led the redesign of onboarding into a system-driven workflow, significantly reducing time-to-revenue
 - Eliminated clarification loops through standardized inputs, compressing the intake cycle
@@ -19,11 +19,11 @@ I identify the constraint → design the system → automate the workflow.
 
 ## 🧠 How I work
 
-- Start with the bottleneck — not the feature
+- Start with the pain point, not the feature
 - Do the work manually to understand where and why it breaks
 - Systematize repeatable work into scalable workflows
-- Use AI to accelerate workflows inside the platform — specs, tickets, Q&A, account intelligence
-- Build AI agents that cover the full PM workflow — discovery, prototyping, delivery, meeting intelligence, and weekly synthesis
+- Use AI to accelerate workflows inside the platform: specs, tickets, Q&A, account intelligence
+- Build AI agents that cover the full PM workflow: discovery, prototyping, delivery, meeting intelligence, and weekly synthesis
 
 ---
 
