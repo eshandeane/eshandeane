@@ -18,6 +18,7 @@ I identify the constraint → design the system → automate the workflow.
 
 - Built 3 delivery pipeline agents covering discovery, prototyping, and acceptance testing
 - Built 8 scheduled PM agents covering meeting intelligence, weekly synthesis, pre-meeting briefings, and release announcements
+  - Recap, Warmup, Buzz, Spotlight, Checkpoint, Gameplan, Meeting Cleanup, Briefing
 
 ---
 
