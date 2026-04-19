@@ -18,14 +18,14 @@ I identify the constraint → design the system → automate the workflow.
 
 - Built 3 delivery pipeline agents covering discovery, prototyping, and acceptance testing
 - Built 8 scheduled PM agents covering meeting intelligence, weekly synthesis, pre-meeting briefings, and release announcements
-  - Buzz — weekly user signal synthesis
-  - Checkpoint — roadmap status with risk scoring
-  - Gameplan — sets weekly priorities
-  - Briefing — daily brief
-  - Recap — meeting decisions and actions
-  - Warmup — pre-meeting context briefing
-  - Spotlight — visual release announcements
-  - Meeting Cleanup — batch meeting processing
+  - Buzz: weekly user signal synthesis
+  - Checkpoint: roadmap status with risk scoring
+  - Gameplan: sets weekly priorities
+  - Briefing: daily brief
+  - Recap: meeting decisions and actions
+  - Warmup: pre-meeting context briefing
+  - Spotlight: visual release announcements
+  - Meeting Cleanup: batch meeting processing
 
 ---
 
