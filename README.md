@@ -54,7 +54,7 @@ Onboarded 34 distributors manually, identified the bottlenecks, then built the A
 
 | Agent | Role |
 |---|---|
-| **Lisa** | 18-phase discovery agent — searches meetings, Gmail, Confluence, codebase, and web. Outputs JTBD framing, quantified impact, risk assessment, and 3 solution tiers with wireframes. ~30 min vs. days. |
+| **Lisa** | Autonomous research agent — asks 3 questions, loads your user persona, then runs full research: JTBD framing, workaround analysis, codebase exploration, impact sizing with driver trees, risk assessment, and 3 solution tiers with a recommendation. ~30 min vs. days. |
 | **Bart** | UI/UX prototyping agent — builds React components directly in the codebase, scores each prototype across 5 design dimensions (visual clarity, interaction quality, consistency, accessibility, responsiveness), and iterates until every dimension hits 4+/5. Blocked State prevents runaway loops. |
 | **Ralph** | Autonomous implementation agent. Receives validated context from Lisa, Bart, and Prince. Implements features end-to-end with user story tracking. |
 | **Prince** | Reads acceptance criteria, spins up Docker test DB, runs Playwright browser tests, auto-fixes issues, captures screenshots, generates structured test reports. Zero-touch QA. |
