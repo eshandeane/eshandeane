@@ -1,31 +1,76 @@
 # Hey, I'm Eshan 👋
 
-Senior Product Manager building AI systems that remove bottlenecks and turn manual workflows into scalable execution and faster revenue.
+Senior Product Manager · Builder · 14 years in tech
 
-I identify the constraint → design the system → automate the workflow.
+I do the work. Then I build the system that replaces it.
+
+Onboarded 34 distributors manually, identified the bottlenecks, then built the AI-enhanced platform that cut time-to-revenue by 40%.
+
+---
+
+## 📊 By the numbers
+
+| Metric | Result |
+|---|---|
+| Distributors onboarded hands-on | 34 |
+| MRR across those accounts | $72.6K/month |
+| Distributor retention | 94% |
+| Time-to-revenue reduction | 40% |
+| New revenue enabled across 4 regional rollouts | $5.32M |
+| AI features shipped in 4 months | 6 (95%+ accuracy) |
+| PM overhead eliminated weekly | 15+ hours |
 
 ---
 
 ## 🔨 What I'm building @ Cut+Dry
 
-**FDE Platform**: AI-powered onboarding system that brings distributors onto the Cut+Dry platform
+**Onboarding Platform** — Rebuilt distributor onboarding from a fragmented manual process into a system-driven workflow
 
-- Led the redesign of onboarding into a system-driven workflow, significantly reducing time-to-revenue
-- Eliminated clarification loops through standardized inputs, compressing the intake cycle
-- Led the design and delivery of 4 AI features: spec generation, Jira ticket automation, RAG-powered Q&A, and AI account health narratives
+- 189 → 113 days to revenue (40% faster)
+- Intake cycle: 100 → 26 days (4x improvement)
+- $72.6K/month MRR · 94% retention across 34 accounts
 
-**PM Agent Suite**: AI agents covering the full product management workflow
+**6 AI Features in 4 Months**
 
-- Built 3 delivery pipeline agents covering discovery, prototyping, and acceptance testing
-- Built 8 scheduled PM agents covering meeting intelligence, weekly synthesis, pre-meeting briefings, and release announcements
-  - Buzz: weekly user signal synthesis
-  - Checkpoint: roadmap status with risk scoring
-  - Gameplan: sets weekly priorities
-  - Briefing: daily brief
-  - Recap: meeting decisions and actions
-  - Warmup: pre-meeting context briefing
-  - Spotlight: visual release announcements
-  - Lookout: ecosystem and competitor intelligence
+- RAG-powered workspace Q&A indexed against account specs and meeting transcripts
+- AI-generated specs across 7 categories in parallel
+- Automated Jira ticket generation via 3-phase pipeline
+- Meeting workspace matching ingesting 287+ historical recordings
+- AI-drafted weekly updates and narrative sync across account records
+- Built LLM-as-Judge eval pipeline — caught 53% hallucination rate in RAG before wider rollout
+- All outputs include accept/edit/dismiss controls to maintain user authority
+
+**Track — Last-Mile Delivery** (COVID-19 pivot)
+
+- Validated demand via Routific integration before building
+- 6-driver pilot → full fleet across 11 distributors
+- 90,000+ orders delivered · 3,000+ restaurants · 95% ordering reliability
+
+---
+
+## 🤖 PM Agent System
+
+### Delivery Pipeline
+
+| Agent | Role |
+|---|---|
+| **Lisa** | 18-phase discovery agent — searches meetings, Gmail, Confluence, codebase, and web. Outputs JTBD framing, quantified impact, risk assessment, and 3 solution tiers with wireframes. ~30 min vs. days. |
+| **Bart** | Takes discovery docs or PRDs and builds working prototypes via v0, Lovable, Bolt — iterating against predefined design rules. |
+| **Ralph** | Autonomous implementation agent. Receives validated context from Lisa, Bart, and Prince. Implements features end-to-end with user story tracking. |
+| **Prince** | Reads acceptance criteria, spins up Docker test DB, runs Playwright browser tests, auto-fixes issues, captures screenshots, generates structured test reports. Zero-touch QA. |
+
+### PM Operating System (8 scheduled agents via macOS launchd)
+
+| Agent | Schedule | Function |
+|---|---|---|
+| **Gameplan** | Sunday 8pm | Weekly priorities from roadmap signals |
+| **Buzz** | Monday 8am | User sentiment synthesis — Slack, Gmail, meetings, support |
+| **Checkpoint** | Monday 8:30am | Roadmap status with per-account risk scoring |
+| **Briefing** | Monday 9am | Daily morning digest |
+| **Lookout** | Monday 10am | Competitor and ecosystem intelligence scan |
+| **Warmup** | 30 min before meetings | Pre-meeting context brief from decision log |
+| **Recap** | Weekdays 6pm | Post-meeting decisions, actions → Google Tasks and decision log |
+| **Spotlight** | Mon/Fri 4pm | Merged PRs with Playwright screenshots as visual changelog to Slack |
 
 ---
 
@@ -35,14 +80,32 @@ I identify the constraint → design the system → automate the workflow.
 - Do the work manually to understand where and why it breaks
 - Systematize repeatable work into scalable workflows
 - Use AI to accelerate workflows inside the platform
-- Build AI agents to accelerate my work
+- Build AI agents to accelerate my own work
 
 ---
 
 ## 🛠 Stack
 
-`Claude Code` `Next.js` `TypeScript` `PostgreSQL` `Prisma` `Trigger.dev` `PostHog`
+**Product:** B2B SaaS · onboarding platforms · AI features · payments/fintech · marketplaces · logistics · ERP integrations · 0-to-1 launches
+
+**AI/Technical:** LLM integration · agent workflows · RAG architecture · prompt design · LLM-as-Judge evals · Claude Code · MCP · Langfuse · PostHog
+
+**Code:** `Next.js` `TypeScript` `PostgreSQL` `Prisma` `Trigger.dev`
 
 ---
 
-📎 [LinkedIn](https://www.linkedin.com/in/eshan-deane/)
+## 🎓 Teaching
+
+**"Beyond Vibe Coding"** — 4-hour hands-on workshop for CS students at University of Moratuwa (Sri Lanka's #1 ranked CS program)
+
+Core thesis: shift from vibe coding (prompt → accept → move on) to agentic coding — building the framework that makes agents useful and shipping repeatable.
+
+Most students shipped real features by session end.
+
+---
+
+## 📬 Contact
+
+📧 eshandeane@gmail.com · [LinkedIn](https://www.linkedin.com/in/eshan-deane/) · [GitHub](https://github.com/eshandeane)
+
+Open to Senior PM and Lead PM roles where shipping creates compounding leverage.
