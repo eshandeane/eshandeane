@@ -20,7 +20,6 @@ Onboarded 29 distributors manually, identified the bottlenecks, then built the A
 | Time-to-revenue reduction | 40% (189 → 113 days) |
 | New revenue enabled across 4 regional rollouts | $5.32M |
 | AI features in production, covered by evals | 5 |
-| Weekly code throughput lift (5-agent pipeline) | +85% (1,281 → 2,374 lines/week) |
 | PM overhead eliminated weekly | 5-7 hrs (8-agent PM OS) |
 
 ---
