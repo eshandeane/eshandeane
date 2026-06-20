@@ -39,7 +39,7 @@ Onboarded 29 distributors manually, identified the bottlenecks, then built the A
 - Automated Jira ticket generation
 - Meeting-to-account workspace matching
 - AI-drafted weekly account update summaries — the one feature I built end-to-end: spec, prompt design, orchestration, evals, UI, and deployed code
-- Built LLM-as-Judge eval pipeline — caught 53% hallucination rate in the RAG feature before wider rollout
+- Built LLM-as-Judge eval pipeline that surfaced 46.7% RAG grounding before wider rollout, with open-ended summary prompts scoring 0-40% versus 95%+ on specific questions
 - All outputs include accept/edit/dismiss controls to maintain user authority
 
 **Track — Last-Mile Delivery** (0-to-1)
