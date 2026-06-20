@@ -1,4 +1,4 @@
-# Hey, I'm Eshan 👋
+# Hey, I'm Eshan 
 
 Senior Product Manager · Builder · 14 years in tech · 8 years in product
 
@@ -10,7 +10,7 @@ Onboarded 29 distributors manually, identified the bottlenecks, then built the A
 
 ---
 
-## 📊 By the numbers
+## By the numbers
 
 | Metric | Result |
 |---|---|
@@ -25,7 +25,7 @@ Onboarded 29 distributors manually, identified the bottlenecks, then built the A
 
 ---
 
-## 🔨 What I'm building @ Cut+Dry
+## What I'm building @ Cut+Dry
 
 **Onboarding Platform** — Rebuilt distributor onboarding from a fragmented manual process into a system-driven workflow
 
@@ -51,7 +51,7 @@ Onboarded 29 distributors manually, identified the bottlenecks, then built the A
 
 ---
 
-## 🤖 PM Agent System
+## PM AI Agents
 
 ### Delivery Pipeline
 
@@ -79,7 +79,7 @@ Onboarded 29 distributors manually, identified the bottlenecks, then built the A
 
 ---
 
-## 🧠 How I work
+## How I work
 
 - Do the work manually to understand where and why it breaks
 - Build the system that scales it
@@ -87,7 +87,7 @@ Onboarded 29 distributors manually, identified the bottlenecks, then built the A
 
 ---
 
-## 🛠 Stack
+## Stack
 
 **Product:** B2B SaaS · onboarding platforms · AI features · payments · marketplaces · logistics · ERP integrations · 0-to-1 launches
 
@@ -97,7 +97,7 @@ Onboarded 29 distributors manually, identified the bottlenecks, then built the A
 
 ---
 
-## 🎓 Teaching
+## Teaching
 
 **"Beyond Vibe Coding"** — 4-hour hands-on workshop for CS students at University of Moratuwa (Sri Lanka's #1 ranked CS program)
 
@@ -107,7 +107,7 @@ Most students shipped real features by session end.
 
 ---
 
-## 📬 Contact
+## Contact
 
 📧 eshandeane@gmail.com · [LinkedIn](https://www.linkedin.com/in/eshan-deane/) · [Portfolio](https://eshandeane.com)
 
