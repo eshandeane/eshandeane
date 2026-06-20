@@ -58,7 +58,7 @@ Onboarded 29 distributors manually, identified the bottlenecks, then built the A
 | Agent | Role |
 |---|---|
 | **Homer** | Orchestrator — runs on a launchd schedule 3×/day. Scans Jira Roadmap + Design tickets, judges signal across Circleback/Slack/Gmail, then triggers Lisa or Bart. Never transitions tickets — the comment thread is the audit trail. |
-| **Lisa** | Autonomous research agent — asks 3 questions, loads your user persona, then runs full research: JTBD framing, workaround analysis, codebase exploration, impact sizing with driver trees, risk assessment, and 3 solution tiers with a recommendation. ~30 min vs. days. Also pollable from Linear every 30 min via launchd. |
+| **Lisa** | Autonomous research agent — asks 3 questions, loads your user persona, then runs full research: JTBD framing, workaround analysis, codebase exploration, impact sizing with driver trees, risk assessment, and 3 solution tiers with a recommendation. ~30 min vs. days. |
 | **Marge** | PRD drafting agent — takes a brief, asks clarifying questions first, drafts the full PRD, then runs a PRD review skill and updates based on feedback. |
 | **Bart** | Agent loop for UI and frontend design — up to 15 iterations of build → review → fix in a dedicated git worktree. Each iteration is a fresh Claude session; cross-iteration memory lives in a learnings file. Exits early when all design tasks pass. |
 | **Ralph** | Autonomous implementation agent. Receives validated context from Lisa, Marge, Bart, and Prince. Implements features end-to-end with user story tracking. |
