@@ -59,8 +59,8 @@ Onboarded 29 distributors manually, identified the bottlenecks, then built the A
 |---|---|
 | **Homer** | Orchestrator — runs on a launchd schedule 3×/day. Scans Jira Roadmap + Design tickets, judges signal across Circleback/Slack/Gmail, then triggers Lisa or Bart. Never transitions tickets — the comment thread is the audit trail. |
 | **Lisa** | Autonomous research agent — asks 3 questions, loads your user persona, then runs full research: JTBD framing, workaround analysis, codebase exploration, impact sizing with driver trees, risk assessment, and 3 solution tiers with a recommendation. ~30 min vs. days. |
-| **Marge** | PRD drafting agent — takes a brief, asks clarifying questions first, drafts the full PRD, then runs a PRD review skill and updates based on feedback. |
-| **Bart** | Agent loop for UI and frontend design — up to 15 iterations of build → review → fix in a dedicated git worktree. Each iteration is a fresh Claude session; cross-iteration memory lives in a learnings file. Exits early when all design tasks pass. |
+| **Marge** | PRD drafting agent — drafts the PRD, then pressure-tests it through a 7-perspective review panel (engineering, design, exec, legal, UXR, skeptic, customer voice). Resolves must-fix issues across up to 2 revision cycles before shipping. |
+| **Bart** | Agent loop for UI and frontend design — up to 15 iterations of build → review → fix in a dedicated git worktree. Reviews score 5 dimensions (visual, interaction, consistency, accessibility, responsive) against the frontend-design and userinterface-wiki skills, with a browser action required per dimension. Exits when all scores pass. |
 | **Ralph** | Autonomous implementation agent. Receives validated context from Lisa, Marge, Bart, and Prince. Implements features end-to-end with user story tracking. |
 | **Prince** | Reads acceptance criteria, spins up Docker test DB, runs Playwright browser tests, auto-fixes issues, captures screenshots, generates structured test reports. Zero-touch QA. |
 
